@@ -26,3 +26,21 @@ body {
   padding: 0px;
   margin-left: 0px;
 }
+
+.one,
+.three {
+  padding: 32px;
+}
+
+.one {
+  margin: 12px;
+}
+
+.two{
+  margin-bottom: 48px;
+}
+
+.three {
+  margin-left: auto
+}
+
